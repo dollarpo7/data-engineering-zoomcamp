@@ -8,7 +8,7 @@ variable "credentials" {
 
 variable "project" {
   description = "Project"
-  default     = "<Your Project ID>"
+  default     = "dtc-de-course-413512"
 }
 
 variable "region" {
